@@ -16,4 +16,4 @@ When the page loads, you will see a set of images with a title. Clicking on any 
 The expanding functionality is achieved using JavaScript. When a user clicks on an image, the active class is added to the selected div element, which has a CSS rule that changes the size and position of the image to cover the entire screen. The removeActiveClasses() function is used to remove the active class from all div elements before adding it to the selected div element.
 
 ## Credits
-The images used in this project were obtained from Unsplash, a website that provides free high-resolution photos.
+The images used in this project were obtained from [Unsplash](https://unsplash.com/) , a website that provides free high-resolution photos.
