@@ -2,6 +2,9 @@
 
 This project is a simple webpage that displays a set of images with a title, where each image expands and covers the whole screen when clicked. It was developed using HTML, CSS, and JavaScript.
 
+# Deploy app
+[Expanding Cards ](https://expandingcardsqw.netlify.app/
+) 
 # Usage
 To use this project, simply open the index.html file in your preferred web browser.
 
