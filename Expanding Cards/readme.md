@@ -4,7 +4,7 @@ The Expanding Cards Project is a simple webpage that showcases a set of images w
 - The project was developed using HTML, CSS, and JavaScript.
 
 ## Deployment
-The project is deployed on Netlify and can be accessed using the following link: [Expanding Cards]([https://expandingcardsqw.netlify.app/](https://expandingcardsqw.netlify.app/))
+The project is deployed on Netlify and can be accessed using the following link: [Expanding Cards](https://expandingcardsqw.netlify.app/)
 
 ## Usage
 To use this project, simply open the index.html file in your preferred web browser. Once the page is loaded, click on any of the images to see the expanding functionality in action.
