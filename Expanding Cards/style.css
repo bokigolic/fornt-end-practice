@@ -46,7 +46,7 @@ body {
 
 .panel.active {
   flex: 5;
-  transition:   ease-in 1.5s;
+  transition: ease-in 1.5s;
 }
 
 .panel.active h3 {
@@ -59,8 +59,11 @@ body {
 
   }
 
-  .panel:nth-of-type(4),
-  .panel:nth-of-type(5) {
+  .panel:nth-of-type(10),
+  .panel:nth-of-type(9),
+  .panel:nth-of-type(8),
+  .panel:nth-of-type(7),
+  .panel:nth-of-type(6) {
     display: none;
   }
 }
