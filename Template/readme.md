@@ -1,1 +1,1 @@
-![Logo](https://github.com/bokigolic/portfolio/blob/main/public/images/1.png)
+![Logo](https://github.com/bokigolic/fornt-end-practice/blob/develop/Template/logo-bojan.png)
