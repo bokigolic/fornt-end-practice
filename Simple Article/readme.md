@@ -21,6 +21,6 @@ Font Awesome (https://fontawesome.com/): for the icons used in the navigation ba
 ## Contributions:
 This project was developed by an individual, but it is always open to contributions. Bojan Golic contributed to this project by providing helpful feedback and suggestions for improvement 
 - [GitHub](https://github.com/bokigolic).
-- [This project](https://github.com/bokigolic/fornt-end-practice/tree/develop/Progress%20Steps)
+- [This project](https://github.com/bokigolic/fornt-end-practice/tree/develop/Simple%20Article)
 
 ![Logo](https://github.com/bokigolic/fornt-end-practice/blob/develop/Template/logo-bojan-small.png)
