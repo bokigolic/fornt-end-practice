@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(228, 230, 230);
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
