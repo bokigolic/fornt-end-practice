@@ -4,7 +4,7 @@ A simple split landing page with hover effects for showcasing PlayStation 5 and 
 
 ## Preview
 
-![Split Landing Page Preview](screenshot.png)
+![Split Landing Page Preview]((https://github.com/bokigolic/fornt-end-practice/blob/develop/Split%20Landing%20Page/img/Screenshoot.png))
 
 ## Features
 
