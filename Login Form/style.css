@@ -5,8 +5,8 @@
 }
 
 body {
-  background-color: rgb(71, 143, 203);
-  color: #ccc4c4;
+  background: linear-gradient(115deg, #56d8e4 10%, #9f01ea 90%); 
+  color: #363434;
   font-family: 'Muli', sans-serif;
   display: flex;
   flex-direction: column;
@@ -18,9 +18,9 @@ body {
 }
 
 .container {
-  background-color: rgba(47, 45, 45, 0.4);
-  padding: 20px 40px;
+  background: linear-gradient(115deg, #6e8b46 10%,  #f1ecb0 190%);  padding: 20px 40px;
   border-radius: 5px;
+  box-shadow: 12px 12px 22px rgba(237, 6, 6, 0.1);
 }
 
 .container h1 {
@@ -30,14 +30,15 @@ body {
 
 .container a {
   text-decoration: none;
-  color: rgb(232, 156, 144);
+  color: rgb(245, 8, 8);
+
 }
 
 .btn {
   cursor: pointer;
   display: inline-block;
   width: 100%;
-  background: rgb(204, 219, 190);
+  background: linear-gradient(115deg, #56d8e4 10%, #203305 90%);
   padding: 15px;
   font-family: inherit;
   font-size: 16px;
@@ -50,7 +51,7 @@ body {
 }
 
 .btn:active {
-  transform: scale(0.98);
+  transform: scale(1.27);
 }
 
 .text {
