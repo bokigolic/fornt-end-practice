@@ -4,7 +4,7 @@ This is a simple login form with an animated wave effect on the input labels. It
 
 ## Preview
 
-![ Preview]()
+![ Preview](https://github.com/bokigolic/front-end-templates/blob/develop/Login%20Form/01.png)
 
 ## Technologies Used
 - HTML
